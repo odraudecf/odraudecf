@@ -46,5 +46,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/odraudecf/odraudecf/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/odraudecf/odraudecf/output/snake.svg" alt="Snake animation" />
+
 
